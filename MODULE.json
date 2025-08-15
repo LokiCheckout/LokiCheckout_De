@@ -1,0 +1,9 @@
+{
+    "modules": [
+        "Magento_Directory",
+        "LokiCheckout_Core"
+    ],
+    "components": [],
+    "config": [],
+    "tests": []
+}
