@@ -1,9 +1,4 @@
 {
-    "modules": [
-        "Magento_Directory",
-        "LokiCheckout_Core"
-    ],
-    "components": [],
-    "config": [],
-    "tests": []
+    "composer_name": "loki-checkout/magento2-de",
+    "module_name": "LokiCheckout_De"
 }
