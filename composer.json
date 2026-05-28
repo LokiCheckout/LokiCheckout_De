@@ -12,7 +12,6 @@
         "magento/module-directory": "^100.0",
         "loki-checkout/magento2-core": "^2.0"
     },
-    "suggest": [],
     "license": "OSL-3.0",
     "autoload": {
         "files": [
