@@ -2,8 +2,7 @@
     "module_name": "LokiCheckout_De",
     "composer_name": "loki-checkout/magento2-de",
     "sequence": [
-        "LokiCheckout_Core",
-        "Magento_Directory"
+        "LokiCheckout_Core"
     ],
     "php_versions": [
         "8.1",
