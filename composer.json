@@ -4,7 +4,7 @@
     "description": "German settings for LokiCheckout",
     "keywords": [
         "loki-checkout",
-        "loki-checkout-category-language"
+        "loki-checkout-category-country"
     ],
     "type": "magento2-module",
     "require": {
