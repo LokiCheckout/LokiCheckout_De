@@ -1,4 +1,6 @@
-"Street Name","Straße"
-"Housenumber","Hausnummer"
-"Addition","Zusatz"
-"State/Province","Bundesland"
+"Street Name","Street Name"
+Housenumber,Housenumber
+Addition,Addition
+"Postal code","Postal code"
+State,State
+Postcode,Postcode
