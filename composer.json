@@ -20,8 +20,5 @@
         "psr-4": {
             "LokiCheckout\\De\\": ""
         }
-    },
-    "extra": {
-        "label": "Germany Settings"
     }
 }
